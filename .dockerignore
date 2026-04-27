@@ -1,0 +1,16 @@
+.git
+.next
+**/.next
+.pycache
+**/.pycache
+__pycache__
+**/__pycache__
+node_modules
+**/node_modules
+venv
+**/venv
+.venv
+**/.venv
+research_support.db
+*.sqlite
+*.sqlite3
