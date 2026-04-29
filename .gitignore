@@ -1,0 +1,13 @@
+.DS_Store
+.pycache/
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+node_modules/
+.next/
+out/
+research_support.db
+*.sqlite
+*.sqlite3
