@@ -1,13 +1,14 @@
 .DS_Store
+
+# Local Python artifacts
 .pycache/
 __pycache__/
-*.py[cod]
-.env
-.venv/
+*.pyc
 venv/
-node_modules/
-.next/
-out/
+
+# Local app data / databases
 research_support.db
-*.sqlite
-*.sqlite3
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
